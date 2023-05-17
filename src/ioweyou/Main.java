@@ -11,7 +11,6 @@ public class Main {
         System.out.println(mattsIOU.howMuchDoIOweTo("Michael"));
         System.out.println();
 
-        // Test case with updating the debt
         IOU mattsIOU2 = new IOU();
         mattsIOU2.setSum("Arthur", 51.5);
         mattsIOU2.setSum("Arthur", 10.5);

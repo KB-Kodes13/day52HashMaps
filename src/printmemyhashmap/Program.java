@@ -4,7 +4,7 @@ public class Program {
     public static void printKeys(HashMap<String, String> hashmap) {
 
         for (String key : hashmap.keySet()) {
-            // Print the key
+            
             System.out.println(key);
         }
     }
